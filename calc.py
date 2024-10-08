@@ -3,4 +3,4 @@ b = 15
 c = a + b
 print (c)
 
-print(f'Ответ: {с}')
+print(f'ответ: {с}')
